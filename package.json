@@ -1,0 +1,12 @@
+{
+  "name": "micro-web",
+  "version": "1.0.0",
+  "description": "#### 启动 ```shell script # 根目录下 npm start 正常启动 npm start-f 强制刷新依赖并启动 ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
